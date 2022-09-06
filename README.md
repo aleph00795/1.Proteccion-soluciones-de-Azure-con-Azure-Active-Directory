@@ -5,7 +5,7 @@ En esta tarea, revisaremos las licencias y los inquilinos de Azure Active Direct
 En el Portal, busque Azure Active Directory y selecciónelo.
 En la página Información general, busque la información de la licencia.
 
-![image](https://user-images.githubusercontent.com/110675810/188714106-8aea822b-6155-4c56-8fe4-2bdf703d63e7.png)
+![image](https://user-images.githubusercontent.com/110675810/188756328-aaa806ab-9c29-4df4-a4c3-3006cc60cf88.png)
 
 Vaya a la página de precios de Azure AD y revise las características y los precios de cada edición.
 
