@@ -1,5 +1,8 @@
-# Protección de soluciones de Azure con Azure Active Directory
-## Tarea1-Revision-de-AzureAD
+# MODULO 1 Protección de soluciones de Azure con Azure Active Directory
+
+https://learn.microsoft.com/es-es/training/modules/azure-active-directory/?WT.mc_id=cloudskillschallenge_38B9BB2D-F0E1-4B09-9159-0C5E9353EC85&ns-enrollment-type=Collection&ns-enrollment-id=gm3rbgd2jnw1
+
+## Tarea1: Revision de AzureAD
 
 En esta tarea, revisaremos las licencias y los inquilinos de Azure Active Directory.
 
